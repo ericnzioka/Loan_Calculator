@@ -30,7 +30,7 @@
     Organize the codebase using a modular and maintainable structure, following best practices for the chosen programming language and framework.
     Use version control to track changes and collaborate with other team members.
 
-5.    Additional Features:
+5.  Additional Features:
 
     Add error handling to handle invalid input data or unexpected errors during loan calculation.
     Implement user authentication and authorization to ensure secure access to the loan calculator.
